@@ -1,0 +1,15 @@
+D:\School\Programming II\Repo\MultiUserBank_Ritola_Solution\MultiUserBank_Ritola\bin\Debug\net6.0\MultiUserBank_Ritola.exe
+D:\School\Programming II\Repo\MultiUserBank_Ritola_Solution\MultiUserBank_Ritola\bin\Debug\net6.0\MultiUserBank_Ritola.deps.json
+D:\School\Programming II\Repo\MultiUserBank_Ritola_Solution\MultiUserBank_Ritola\bin\Debug\net6.0\MultiUserBank_Ritola.runtimeconfig.json
+D:\School\Programming II\Repo\MultiUserBank_Ritola_Solution\MultiUserBank_Ritola\bin\Debug\net6.0\MultiUserBank_Ritola.dll
+D:\School\Programming II\Repo\MultiUserBank_Ritola_Solution\MultiUserBank_Ritola\bin\Debug\net6.0\MultiUserBank_Ritola.pdb
+D:\School\Programming II\Repo\MultiUserBank_Ritola_Solution\MultiUserBank_Ritola\obj\Debug\net6.0\MultiUserBank_Ritola.csproj.AssemblyReference.cache
+D:\School\Programming II\Repo\MultiUserBank_Ritola_Solution\MultiUserBank_Ritola\obj\Debug\net6.0\MultiUserBank_Ritola.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\Programming II\Repo\MultiUserBank_Ritola_Solution\MultiUserBank_Ritola\obj\Debug\net6.0\MultiUserBank_Ritola.AssemblyInfoInputs.cache
+D:\School\Programming II\Repo\MultiUserBank_Ritola_Solution\MultiUserBank_Ritola\obj\Debug\net6.0\MultiUserBank_Ritola.AssemblyInfo.cs
+D:\School\Programming II\Repo\MultiUserBank_Ritola_Solution\MultiUserBank_Ritola\obj\Debug\net6.0\MultiUserBank_Ritola.csproj.CoreCompileInputs.cache
+D:\School\Programming II\Repo\MultiUserBank_Ritola_Solution\MultiUserBank_Ritola\obj\Debug\net6.0\MultiUserBank_Ritola.dll
+D:\School\Programming II\Repo\MultiUserBank_Ritola_Solution\MultiUserBank_Ritola\obj\Debug\net6.0\refint\MultiUserBank_Ritola.dll
+D:\School\Programming II\Repo\MultiUserBank_Ritola_Solution\MultiUserBank_Ritola\obj\Debug\net6.0\MultiUserBank_Ritola.pdb
+D:\School\Programming II\Repo\MultiUserBank_Ritola_Solution\MultiUserBank_Ritola\obj\Debug\net6.0\MultiUserBank_Ritola.genruntimeconfig.cache
+D:\School\Programming II\Repo\MultiUserBank_Ritola_Solution\MultiUserBank_Ritola\obj\Debug\net6.0\ref\MultiUserBank_Ritola.dll
