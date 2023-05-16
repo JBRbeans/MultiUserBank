@@ -1,5 +1,8 @@
-﻿using System.ComponentModel.Design;
-using System.Runtime.CompilerServices;
+﻿// Juliea Ritola
+// IT112
+// NOTES: 
+// BEHAVIORS NOT IMPLIMENTED AND WHY: 
+
 
 namespace MultiUserBank_Ritola
 {
@@ -22,14 +25,6 @@ namespace MultiUserBank_Ritola
 			string user;
 			string pass;
 			Login();
-
-
-
-			
-			//bank.Login(Console.ReadLine(), Console.ReadLine());
-			//Console.WriteLine("What would you like to do?");
-			//MenuInformation();
-
 			
 
 			bool isRunning = true;
